@@ -1,9 +1,9 @@
-Customize Q2A 404 page message
+Customized 404 page for Q2A
 ==============================
 
 Plugin Version
 --------------
-- v1.0
+- v1.1
 
 This plugin will allow you to customize 404 page. You can place useful message for the site users. 
 
@@ -11,6 +11,8 @@ Features
 --------
 - Supports HTML code.
 - Enable or disable plugin.
+- Enable or disable search box .
+- Custom CSS for extra styling .
 
 Installation Guide
 ------------------
@@ -24,11 +26,16 @@ Minimum Question2Answer Version Required
 
 Admin Guide
 -----------
-- Login with admin id.
+- Login with admin credentials .
 - Go to Admin > Plugins page.
 - Scroll down to "Custom 404 Page" in plugin list.
 - Click on "options" to place HTML code and enable plugin.
 
-Demo
-----
-- Plugin is active on http://q2a-dev.prothoughts.com
+Thanks to
+-----------
+-  Gideon Greenspan for Question2Answer 
+-  Prothoughts.com for the base plugin 
+
+Notes 
+-----------
+This plugin is forked from https://github.com/ProThoughts/q2a-custom-404-page by Prothoughts.com . Both serves the same purpose . I have added some more fretures like search box , costum css and some code enhancements . So make sure you are using any one but not both . If you have installed both then it may not work as expected .  
